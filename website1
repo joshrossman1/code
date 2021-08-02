@@ -1,0 +1,182 @@
+
+<html>
+<body bgcolor="pink">
+
+Login:
+<input
+	type="text"
+    placeholder="Username">
+<input
+	type="password"
+    placeholder="Password">
+<input
+	type="button"
+    value="Submit"><hr>
+New? Create username here:<br>
+<input
+	type="text"
+    placeholder="First name:">
+<input
+	type="text"
+    placeholder="Last Name:">
+<br>
+Birthday:
+<select>
+	<option>Jan</option>
+    <option>Feb</option>
+    <option>March</option>
+    <option>April</option>
+    <option>May</option>
+    <option>June</option>
+    <option>Aug</option>
+    <option>Sep</option>
+    <option>Oct</option>
+    <option>Nov</option>
+    <option>Dec</option>
+</select>
+<select>
+	<option>1</option>
+    <option>2</option>
+    <option>3</option>
+    <option>4</option>
+    <option>5</option>
+    <option>6</option>
+    <option>7</option>
+    <option>8</option>
+    <option>9</option>
+    <option>10</option>
+    <option>11</option>
+     <option>12</option>
+    <option>13</option>
+     <option>14</option>
+    <option>15</option>
+     <option>16</option>
+    <option>17</option>
+     <option>18</option>
+    <option>19</option>
+     <option>20</option>
+    <option>21</option>
+     <option>22</option>
+    <option>23</option>
+     <option>24</option>
+    <option>25</option>
+     <option>26</option>
+    <option>27</option>
+     <option>28</option>
+    <option>29</option>
+     <option>30</option>
+    <option>31</option>
+</select>
+<input
+	type="text"
+    placeholder="Year"><br>
+<input
+	type="button"
+    value="Sign up">
+<hr>
+
+<h1><font face="algerian" color="blue"><center><b><u>Welcome to my website</b></u></center></font></h1>
+
+<p><font color="green">Welcome to my website. I am coking to teach you about baking. We will lean about, cookies, brownies, Challah, bagels, and so much more! I can't wait for you to join me on this baking adventure.</font></p>
+<iframe width="100%" height="200" src="https://www.youtube.com/embed/10pXWMHFOO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><h3>My baking options.</h3>
+Please click on each of the pictures. They will take you to a different website, to teach you about this baked good.</center>
+<center><table>
+	<tr>
+    	<td><center>Brownies</center><a href="https://en.wikipedia.org/wiki/Chocolate_brownie"><image src="https://bakerbynature.com/wp-content/uploads/2020/04/Cocoa-Fudge-Brownies123-1-of-1.jpg" height="200" width="200"></a></td>
+        <td><center>Cookies</center><a href="https://en.wikipedia.org/wiki/Cookie"><image src="https://images-gmi-pmc.edge-generalmills.com/f16220f8-ce98-46dd-abb9-ffe4be52028e.jpg" height="200" width="200"></a></td>
+        <td><center>Cupcakes</center><a href="https://en.wikipedia.org/wiki/Cupcake"><image src="https://www.lifeloveandsugar.com/wp-content/uploads/2020/04/Vanilla-Cupcakes-Collage.jpg" height="200" width="200"></a></td>
+    </tr>
+    <tr>
+    	<td><center>Challah</center><a href="https://en.wikipedia.org/wiki/Challah"><image src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Challah_Bread_Six_Braid_1.JPG/1024px-Challah_Bread_Six_Braid_1.JPG" height="200" width="200"></a></td>
+        <td><center>Corn Bread</center><a href="https://en.wikipedia.org/wiki/Cornbread"><image src="https://cafedelites.com/wp-content/uploads/2018/11/Cornbread-IMAGE-1.jpg" height="200" width="200"></a></td>
+        <td><center>Cake</center><a href="https://en.wikipedia.org/wiki/Cake"><image src="https://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg" height="200" width="200"></a></td>
+    </tr>
+    <tr>
+    	<td><center>Pie</center><a href="https://en.wikipedia.org/wiki/Pie"><image src="https://www.thespruceeats.com/thmb/rIWhGrnGW9vVftkwAzo5d1iZo5c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/basic-cherry-pie-recipe-995136-14-dfe79487adf64a848a49dd07983b6614.jpg" height="200" width="200"></a></td>
+        <td><center>Pita</center><a href="https://en.wikipedia.org/wiki/Pita"><image src="https://www.mygreekdish.com/wp-content/uploads/2021/05/Easiest-homemade-Pita-Bread-recipe-1024x744.jpeg" height="200" width="200"></a></td>
+        <td><center>Bagels</center><a href="https://en.wikipedia.org/wiki/Bagel"><image src="https://bakingamoment.com/wp-content/uploads/2020/06/IMG_8813-bagel-recipe.jpg" height="200" width="200"></a></td>
+    </tr>
+
+
+</table>
+</center>
+<hr>
+<center><i><b><u><h1>My bakery order form:</h1></i></u></b></center>
+<b><i>What would you like to buy?</b></i><br>
+<select>
+	<option>Cookie</option>
+    <option>Bagel</option>
+    <option>Challah</option>
+    <option>Bread</option>
+    <option>Cup Cake</option>
+    <option>Cake</option>
+    <option>Pie</option>
+    <option>Peta</option>
+    <option>Laffa</option>
+    <option>Muffin</option>
+    <option>Pizza</option>
+    <option>Carrots</option>
+</select><br><br>
+<b><i>Do you want frosting?</b></i><br>
+<input
+	type="radio"
+    name="frosting">
+Yes<br>
+<input
+	type="radio"
+    name="frosting">
+No<br><br>
+
+<b><i>How are you going to pay?</b></i>
+<br>
+<input
+	type="radio"
+    name="payment">
+Cash<br>
+<input
+	type="radio"
+    name="payment">
+Credit Card<br>
+<input
+	type="radio"
+    name="payment">
+Check<br>
+<hr>
+Here is a list of our favorite baked goods!
+<ol type="1">
+	<li>Cookies</li>
+    	<ol type="A">
+        	<li>Choclate Chips</li>
+            <li>Plain</li>
+            <li>Choclate</li>
+        </ol>
+    <li>Brownies</li>
+    <li>Cake</li>
+    <li>Muffins</li>
+    <li>Cake</li>
+    	<ol type="A">
+        	<li>Choclate</li>
+            	<ol type="i">
+                	<li>With frosting</li>
+                    <li>Without frosting</li>
+                </ol>
+        </ol>
+        <ol type="A">
+            <li>Vanilla</li>
+            	<ol type="i">
+                	<li>With frosting</li>
+                    <li>Without frosting</li>
+                </ol>
+         </ol>
+	</ol>
+</ol>
+
+And here are some other delicious deserts!
+<ul type="square">
+	<li>Ice Cream</li>
+    <li>Fruit</li>
+    <li>Milkshakes</li>
+</ul>
+</body>
+</html>
